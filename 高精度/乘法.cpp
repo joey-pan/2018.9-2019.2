@@ -2,12 +2,6 @@
 #include<cstring>
 #include<cstdio>
 using namespace std;
-struct id{
-    string name;
-    int age;
-    int height;
-    int weight;
-};
 int main(){
     long lena, lenb, lenc;
     long i, j, x, a[1000], b[1000], c[1000];
